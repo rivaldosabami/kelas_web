@@ -12,7 +12,7 @@ const About = () => {
         
         <h2 className="text-5xl font-extrabold text-center mb-12 text-transparent bg-clip-text 
           bg-gradient-to-r from-green-400 to-green-600 tracking-wider animate-glitch">
-          About Me 2
+          About Me 
         </h2>
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-12">
