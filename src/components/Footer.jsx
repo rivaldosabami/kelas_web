@@ -69,7 +69,7 @@ const Footer = () => {
               Privacy
             </a>
             <a href="#" className="text-green-300 hover:text-white transition duration-300">
-              Terms of Service 1
+              Terms of Service
             </a>
           </div>
         </div>
